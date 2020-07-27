@@ -1,4 +1,4 @@
-#! /usr/bin/perl
+#!/usr/bin/env perl
 ##  @file
 #   @brief  
 #   FUNCTION: this utility script converts old code to the new

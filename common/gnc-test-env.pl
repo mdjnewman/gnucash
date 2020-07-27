@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 # Spit out the environment variable settings needed based on
 # arguments listing @gnc_module_dirs, @guile_load_dirs, and

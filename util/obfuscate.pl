@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 # Usage: gnucash-obfuscate.pl input_data.gnucash > output.gnucash
 # Adam Buchbinder

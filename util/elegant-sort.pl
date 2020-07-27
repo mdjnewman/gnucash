@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl -w
 # -*- perl -*-
 #
 # Sort filenames in POTFILES.in in a consistent way
